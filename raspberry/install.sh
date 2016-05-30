@@ -2,7 +2,7 @@
 
 REPO="Streamlab-Repo/nginx-rtmp-module"
 BRANCH="Raspberry-1.1.7"
-VERSION="1.6.2-5"
+VERSION="1.6.2-5+deb8u1"
 ARCH="armhf"
 PAQUETES=""
 
